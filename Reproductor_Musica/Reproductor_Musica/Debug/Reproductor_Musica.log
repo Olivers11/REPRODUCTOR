@@ -1,0 +1,6 @@
+﻿  Lista.cpp
+  Nodo.cpp
+  Reproductor_Musica.cpp
+  Generando código...
+C:\Users\olste\Desktop\Ejercicios_Reto\C++_Retos\LUIS\Reproductor_Musica\Reproductor_Musica\Lista.cpp(130): warning C4715: 'Lista::retornarCancion': no todas las rutas de acceso de control devuelven un valor
+  Reproductor_Musica.vcxproj -> C:\Users\olste\Desktop\Ejercicios_Reto\C++_Retos\LUIS\Reproductor_Musica\Debug\Reproductor_Musica.exe
